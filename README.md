@@ -5,7 +5,7 @@ This project is a simple login page created using HTML and CSS. It features a mo
 
 
 
- FEATURES:
+ # FEATURES:
 
 Responsive design using CSS Flexbox
 
@@ -27,14 +27,14 @@ Font Awesome Icons (CDN)
 
 
 
- FILE STRUCTURE:
+ # FILE STRUCTURE:
 
 project-folder/
 │── index.html    # Main HTML file
 │── style.css     # CSS file for styling
 │── README.md     # Project documentation
 
-HOW TO USE:
+# HOW TO USE:
 
 Clone or download the repository.
 
@@ -46,7 +46,7 @@ Click the login button (currently non-functional; backend integration required).
 
 
 
- DEPENDENCIES:
+#  DEPENDENCIES:
 
 Font Awesome Icons (included via CDN)
 
@@ -54,6 +54,6 @@ Font Awesome Icons (included via CDN)
 
 
 
-License
+# LICENSE:
 
 This project is open-source and free to use for any purpose.

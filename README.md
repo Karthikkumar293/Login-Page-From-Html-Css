@@ -3,7 +3,9 @@ Login Page
 
 This project is a simple login page created using HTML and CSS. It features a modern, minimalistic design with a username and password input field, an icon-based label system, and a responsive layout.
 
-Features
+
+
+ FEATURES:
 
 Responsive design using CSS Flexbox
 
@@ -23,14 +25,16 @@ CSS3
 
 Font Awesome Icons (CDN)
 
-File Structure
+
+
+ FILE STRUCTURE:
 
 project-folder/
 │── index.html    # Main HTML file
 │── style.css     # CSS file for styling
 │── README.md     # Project documentation
 
-How to Use
+HOW TO USE:
 
 Clone or download the repository.
 
@@ -40,15 +44,9 @@ Enter your username and password.
 
 Click the login button (currently non-functional; backend integration required).
 
-Future Enhancements
 
-JavaScript validation for form fields
 
-Backend integration for authentication
-
-Enhanced animations and transitions
-
-Dependencies
+ DEPENDENCIES:
 
 Font Awesome Icons (included via CDN)
 
